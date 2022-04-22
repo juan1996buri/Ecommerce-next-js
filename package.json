@@ -1,5 +1,5 @@
 {
-  "name": "restaurant",
+  "name": "next-amazona",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,9 @@
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "js-cookie": "^3.0.1",
+    "mongoose": "^6.3.0",
     "next": "12.1.5",
+    "next-connect": "^0.12.2",
     "react": "18.0.0",
     "react-dom": "18.0.0"
   },

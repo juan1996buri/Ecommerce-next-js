@@ -34,7 +34,7 @@ export default function Home() {
                   </CardActionArea>
                 </NextLink>
                 <CardActions>
-                  <Typography>${product.price}</Typography>
+                  <Typography>$ {product.price}</Typography>
                   <Button size="small" color="primary">
                     Add to card
                   </Button>
