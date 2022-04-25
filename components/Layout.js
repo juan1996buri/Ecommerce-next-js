@@ -22,7 +22,7 @@ export default function Layout({ title, description, children }) {
   const theme = createMuiTheme({
     typography: {
       h1: {
-        fontSize: '1.6rem,',
+        fontSize: '1.6rem',
         fontWeight: 400,
         margin: '1rem 0',
       },
